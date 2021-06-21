@@ -13,5 +13,6 @@ terraform {
     storage_account_name = "sureshsa123"
     container_name       = "con"
     key                  = "dev.terraform.tfstate"
+    access_key = "y9cLgrHs3aD+jlIRi4SOhESzzEi9b/twG7Ztx75UbJiEkX8otDBux38nVvTgSubGC3DfbItp5zBx3YAlubnI7w=="
   }
 }
